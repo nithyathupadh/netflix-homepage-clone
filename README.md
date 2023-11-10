@@ -1,4 +1,4 @@
-```markdown
+
 # Netflix Homepage Clone
 
 Welcome to the Netflix Homepage Clone project! This project aims to replicate the user interface of Netflix's homepage using HTML and Tailwind CSS, providing users with a familiar experience to explore movies and TV shows.
